@@ -15,7 +15,7 @@ name                     : &name "Marissa Stelmack"
 description              : &description "Welcome to my portfolio!"
 url                      : https://mstelmac.github.io # the base hostname & protocol for your site 
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
-repository               : "about/mstelmac.github.io" 
+repository               : "mstelmac.github.io/about/" # "about/mstelmac.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
