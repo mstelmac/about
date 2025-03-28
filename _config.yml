@@ -13,7 +13,7 @@ title                    : "Marissa Stelmack"
 title_separator          : "-"
 name                     : &name "Marissa Stelmack"
 description              : &description "Welcome to my portfolio!"
-url                      : https://github.com/mstelmac # the base hostname & protocol for your site 
+url                      : https://mstelmac.github.io # the base hostname & protocol for your site 
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "about/mstelmac.github.io"
 
