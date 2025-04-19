@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Just a bio
+Graduate student and settler-scholar who is interested in the possibilities of Indigenous Knowledge preservation and documentation through digital library initiatives and alternative metadata and classification systems.  
 
 Education
 ======
@@ -48,7 +48,9 @@ Teaching Experience
 ======
 **Level 1, Graduate Teaching and Learning Designation** | University of Alberta (Jan 2025 - Present)
 
-**Graduate Teaching Assistant** University of Calgary (Jan - Apr 2024)
+**Graduate Teaching Assistant** | University of Calgary (Jan - Apr 2024)
+
+**Graduate Teaching Assistant** | Brandon University (Sept - Dec 2019)
 
 Professional and Association Engagement
 ======
