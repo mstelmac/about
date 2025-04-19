@@ -50,8 +50,6 @@ Teaching Experience
 
 **Graduate Teaching Assistant** | University of Calgary (Jan - Apr 2024)
 
-**Graduate Teaching Assistant** | Brandon University (Sept - Dec 2019)
-
 Professional and Association Engagement
 ======
 **Student Representative** | Alberta Association of Health Libraries (Mar 2025 - Present)
@@ -100,7 +98,7 @@ Conference Presentations
 Honours and Awards
 ======
 * University of Alberta Graduate Recruitment Scholarship, 2024
-* Dr. Ralph F.B. King Graduate Scholarship in English (Brandon University), 2024
+* Dr. Ralph F. B. King Graduate Scholarship in English (Brandon University), 2024
   * Awarded upon recommendation of the English Department to a graduating or graduated student with a major in English who has been accepted into graduate studies in English literature at an accredited institution, and who has achieved the highest academic standing
 * Faculty of Graduate Studies Entrance Scholarship (University of Calgary), 2023
 * Inducted into President's Honour Society (Brandon University), 2019
