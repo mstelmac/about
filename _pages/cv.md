@@ -47,8 +47,7 @@ Selected Professional Experience
 Teaching Experience
 ======
 **Level 1, Graduate Teaching and Learning Designation** | University of Alberta (Jan 2025 - Present)
-
-**Graduate Teaching Assistant** | University of Calgary (Jan - Apr 2024)
+Graduate Teaching Assistant | University of Calgary (Jan - Apr 2024)
 
 Professional and Association Engagement
 ======
