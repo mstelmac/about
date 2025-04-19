@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Bio
+======
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h6>M.A. in Digital Humanites and M.A. in Library and Information Studies,</h6> University of Alberta, 2027 (expected)
+* M.A. in English, University of Calgary, 2024
+* B.A. in English, GitHub University, 2012
 
 Work experience
 ======
