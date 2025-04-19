@@ -23,11 +23,11 @@ repository               : "mstelmac.github.io/about/" # "about/mstelmac.github.
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Marissa Stelmack"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Marissa Stelmack, M.A."
+  pronouns         : "she/her"
+  bio              : "MA/MLIS Graduate Student | Current Student | Future Librarian | Perpetual Learner"
   location         : "Edmonton, AB"
-  employer         : "Red Brick University"
+  employer         : "University of Alberta"
   uri              : # URL
   email            : "mstelmac@ualberta.ca" 
 
