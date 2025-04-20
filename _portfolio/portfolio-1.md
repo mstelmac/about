@@ -1,9 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Unmoored"
+excerpt: "A personal essay where I examine the meaning of home.<br/><img src='./Images/unmoored.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this personal essay, I attempt to disentangle my convoluted thoughts around where, and what, home is to me. As I explore this topic, I discuss my feelings of unsettledness, guilt, and fear surrounding self-inflicted change, which manifests as a result of perpetual moves from one city and one apartment to the next.
 
-[Click here to download the game!](https://mautumn.itch.io/a-hotdogs-quest)
+[Click here to view](https://mautumn.itch.io/a-hotdogs-quest)
