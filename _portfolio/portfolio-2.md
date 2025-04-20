@@ -1,6 +1,6 @@
 ---
 title: "A Hotdog's Quest"
-excerpt: "You are a hotdog who is searching for their wayward bun!<br/><img src='/images/hotdog.png'>"
+excerpt: "You are a hotdog who is searching for their wayward bun!<br/><img src='images/hotdog.png'>"
 collection: portfolio
 ---
 
